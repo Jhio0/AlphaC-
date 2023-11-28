@@ -1,0 +1,14 @@
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\bin\Debug\net8.0\AlphaC#.exe
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\bin\Debug\net8.0\AlphaC#.deps.json
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\bin\Debug\net8.0\AlphaC#.runtimeconfig.json
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\bin\Debug\net8.0\AlphaC#.dll
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\bin\Debug\net8.0\AlphaC#.pdb
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\obj\Debug\net8.0\AlphaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\obj\Debug\net8.0\AlphaC#.AssemblyInfoInputs.cache
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\obj\Debug\net8.0\AlphaC#.AssemblyInfo.cs
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\obj\Debug\net8.0\AlphaC#.csproj.CoreCompileInputs.cache
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\obj\Debug\net8.0\AlphaC#.dll
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\obj\Debug\net8.0\refint\AlphaC#.dll
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\obj\Debug\net8.0\AlphaC#.pdb
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\obj\Debug\net8.0\AlphaC#.genruntimeconfig.cache
+C:\Users\soria\OneDrive\Documents\AlphaC#\AlphaC#\obj\Debug\net8.0\ref\AlphaC#.dll
